@@ -11,6 +11,7 @@ require('./keypress/keypress');
 require('./mask/mask');
 require('./reset/reset');
 require('./route/route');
+require('./scroll/scroll-jqlite');
 require('./scroll/scroll');
 require('./scrollfix/scrollfix');
 require('./showhide/showhide');
