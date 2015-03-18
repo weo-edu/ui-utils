@@ -1,3 +1,23 @@
+require('./alias');
+require('./event');
+require('./format');
+require('./highlight');
+require('./ie-shiv');
+require('./include');
+require('./indeterminate');
+require('./inflector');
+require('./jq');
+require('./keypress');
+require('./mask');
+require('./reset');
+require('./route');
+require('./scroll');
+require('./scrollfix');
+require('./showhide');
+require('./unique');
+require('./uploader');
+require('./validate');
+
 angular.module('ui.utils',  [
   'ui.event',
   'ui.format',
